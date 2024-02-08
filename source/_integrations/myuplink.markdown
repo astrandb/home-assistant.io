@@ -11,6 +11,7 @@ ha_codeowners:
   - '@pajzo'
 ha_config_flow: true
 ha_platforms:
+  - diagnostics
   - sensor
   - update
 ha_integration_type: integration
